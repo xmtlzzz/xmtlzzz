@@ -40,8 +40,8 @@ Building things that work — reliably, efficiently, and with care.
 <div align="center">
 
 <a href="https://github.com/xmtlzzz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xmtlzzz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmtlzzz&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-omega-livid-20.vercel.app/api?username=xmtlzzz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-omega-livid-20.vercel.app/api/top-langs/?username=xmtlzzz&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 
 <br/>
@@ -100,12 +100,12 @@ Building things that work — reliably, efficiently, and with care.
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/xmtlzzz/cloudPulse">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=xmtlzzz&repo=cloudPulse&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-stats-omega-livid-20.vercel.app/api/pin/?username=xmtlzzz&repo=cloudPulse&theme=tokyonight&hide_border=true" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/xmtlzzz/vInvoice">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=xmtlzzz&repo=vInvoice&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-stats-omega-livid-20.vercel.app/api/pin/?username=xmtlzzz&repo=vInvoice&theme=tokyonight&hide_border=true" />
       </a>
     </td>
   </tr>
