@@ -99,7 +99,7 @@ Building things that work — reliably, efficiently, and with care.
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/xmtlzzz/cloudPulse">
+      <a href="https://github.com/xmtlzzz/vBlog-Core"">
         <img src="https://github-readme-stats-omega-livid-20.vercel.app/api/pin/?cachebust=1&username=xmtlzzz&repo=cloudPulse&theme=tokyonight&hide_border=true" />
       </a>
     </td>
