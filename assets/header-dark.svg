@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-labelledby="title desc">
+<title id="title">xmtlzzz — Building things that work.</title>
+<desc id="desc">Personal projects, developer tools, and experiments. Minimal typographic banner with a gently moving accent. Animation stops when reduced motion is requested.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+.mono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}
+.cursor{animation:blink 2.4s step-end infinite}
+.signal{animation:travel 7s ease-in-out infinite}
+@keyframes blink{0%,48%,100%{opacity:1}49%,74%{opacity:.16}}
+@keyframes travel{0%,100%{transform:translateX(0)}50%{transform:translateX(62px)}}
+@media(prefers-reduced-motion:reduce){.cursor,.signal{animation:none}}
+</style>
+<rect width="1000" height="260" fill="#0d1117"/>
+<circle cx="19" cy="35" r="4" fill="#65d6ad"/>
+<text x="35" y="40" font-size="13" font-weight="600" letter-spacing="2.5" fill="#919baa">PROJECTS &amp; EXPERIMENTS</text>
+<text x="12" y="139" font-size="88" font-weight="750" letter-spacing="-5" fill="#f0f3f6">xmtlzzz</text>
+<rect class="cursor" x="314" y="81" width="5" height="66" rx="1" fill="#65d6ad"/>
+<text x="17" y="189" font-size="25" font-weight="400" letter-spacing="-.4" fill="#919baa">Building things that work.</text>
+<g transform="translate(754 75)">
+<rect x="0" y="0" width="188" height="108" rx="16" fill="#132a25"/>
+<path d="M40 32L24 48l16 16M148 32l16 16-16 16" fill="none" stroke="#65d6ad" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M105 26L83 70" fill="none" stroke="#65d6ad" stroke-width="2" stroke-linecap="round"/>
+<path d="M49 87h90" stroke="#26323b" stroke-width="2" stroke-linecap="round"/>
+<path class="signal" d="M49 87h28" stroke="#65d6ad" stroke-width="2" stroke-linecap="round"/>
+</g>
+<line x1="17" y1="240" x2="983" y2="240" stroke="#26323b" stroke-width="1"/>
+<path d="M17 240h52" stroke="#65d6ad" stroke-width="2"/>
+</svg>
+
